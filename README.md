@@ -3,6 +3,7 @@
 ___
 
 ## Presentacion
-¿Quien soy?
-Hola mi nombre es Facundo Storni soy de moreno, tengo 21 años y estudio ingeniería en sistemas, además soy vendedor de turnismo. 
+**¿Quien soy?**  
+Mi nombre es Facundo Storni soy de moreno, tengo 21 años y estudio ingeniería en sistemas, además soy vendedor de turnismo. 
 En mi tiempo libre me gusta jugar a videojuegos, entrenar boxeo o jugar al futbol.
+##
